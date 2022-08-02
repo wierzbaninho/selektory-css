@@ -1,0 +1,4 @@
+p {color: blue;}
+h1 {background-color: beige;}
+h3 {background-color: cornflowerblue;}
+h1+h3 {color: red;}
